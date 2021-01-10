@@ -85,7 +85,8 @@ body{
 .wrapper{
   width: 80%;
   max-width: 1200px;
-  margin-left: 10%;
+  /* margin-left: 10%; */
+  margin: 0 auto;
   /* background-color: lawngreen; */
 }
 
@@ -407,7 +408,7 @@ nav li{
 /* banner start*/
 
 .banner{
-  background-color: red;
+  /* background-color: red; */
   background-image: url(../assets/images/parallax-08.jpg);
   background-size: cover;
   padding: 20vh 0;
@@ -421,7 +422,7 @@ nav li{
   }
 
   .banner article p{
-      font-size: 35px;
+      font-size: 40px;
       padding-bottom: 10px;
       font-weight: lighter;
       color: #151515;
